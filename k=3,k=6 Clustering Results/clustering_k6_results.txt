@@ -1,0 +1,201 @@
+Clustering Analysis with k=6 (Departments)
+================================================================================
+Number of documents: 120
+TF-IDF matrix shape: (120, 108626)
+Overall Silhouette Score: 0.400
+
+
+Cluster Metrics:
+----------------------------------------
+
+Cluster 0:
+Size: 25 documents
+Average Silhouette Score: 0.482
+
+Cluster 1:
+Size: 26 documents
+Average Silhouette Score: 0.187
+
+Cluster 2:
+Size: 6 documents
+Average Silhouette Score: 0.866
+
+Cluster 3:
+Size: 27 documents
+Average Silhouette Score: 0.498
+
+Cluster 4:
+Size: 16 documents
+Average Silhouette Score: 0.259
+
+Cluster 5:
+Size: 20 documents
+Average Silhouette Score: 0.416
+
+Cluster 0 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_101', 'doc_11', 'doc_112', 'doc_119', 'doc_12', 'doc_121', 'doc_125', 'doc_131', 'doc_143', 'doc_15', 'doc_151', 'doc_16', 'doc_18', 'doc_19', 'doc_31', 'doc_34', 'doc_35', 'doc_37', 'doc_40', 'doc_41', 'doc_6', 'doc_61', 'doc_80', 'doc_82', 'doc_86']
+
+Top 20 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	dct            	0.0754		1
+2	cli            	0.0754		2
+3	nilm           	0.0714		3
+4	originator     	0.0596		4
+5	yoneda         	0.0548		5
+6	whitepaper     	0.0518		6
+7	enciso         	0.0503		7
+8	ctlccand       	0.0487		8
+9	ctlcand        	0.0487		9
+10	ctlccmodel     	0.0487		10
+11	ctlcis         	0.0487		11
+12	ctlccto        	0.0487		12
+13	ctlcto         	0.0487		13
+14	vispl          	0.0487		14
+15	ctlcmodel      	0.0487		15
+16	ctlccis        	0.0487		16
+17	ctlccfor       	0.0487		17
+18	ctlcinto       	0.0487		18
+19	ctlcccan       	0.0487		19
+20	bigru          	0.0486		20
+
+Cluster 1 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_108', 'doc_117', 'doc_120', 'doc_123', 'doc_136', 'doc_140', 'doc_149', 'doc_24', 'doc_26', 'doc_33', 'doc_38', 'doc_43', 'doc_44', 'doc_55', 'doc_57', 'doc_59', 'doc_62', 'doc_66', 'doc_72', 'doc_76', 'doc_81', 'doc_84', 'doc_85', 'doc_9', 'doc_90', 'doc_93']
+
+Top 20 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	tiered         	0.0861		1
+2	pickup         	0.0619		2
+3	cyclically     	0.0584		3
+4	gaap           	0.0583		4
+5	emh            	0.0541		5
+6	leadi          	0.0541		6
+7	herding        	0.0541		7
+8	iases          	0.0541		8
+9	appe           	0.0541		9
+10	irrationally   	0.0541		10
+11	odean          	0.0541		11
+12	overconfident  	0.0541		12
+13	miscalibration 	0.0541		13
+14	shefrin        	0.0541		14
+15	underscori     	0.0541		15
+16	bikhchandani   	0.0541		16
+17	shiller        	0.0541		17
+18	nickerson      	0.0541		18
+19	undervalue     	0.0541		19
+20	disconfirming  	0.0541		20
+
+Cluster 2 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_103', 'doc_111', 'doc_137', 'doc_32', 'doc_53', 'doc_91']
+
+Top 20 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	masculins      	0.0436		1
+2	rche           	0.0396		2
+3	tissage        	0.0374		3
+4	fqs            	0.0364		4
+5	ekwuyasi       	0.0348		5
+6	minitaire      	0.0348		6
+7	camion         	0.0321		7
+8	bacon-villemaire	0.0318		8
+9	co-directrice  	0.0318		9
+10	guylaine       	0.0318		10
+11	charles-antoine	0.0318		11
+12	trauma-informed	0.0318		12
+13	timt           	0.0318		13
+14	recenser       	0.0318		14
+15	existerait     	0.0318		15
+16	reconnaissances	0.0318		16
+17	chaleureusement	0.0318		17
+18	apportant      	0.0318		18
+19	infiniment     	0.0318		19
+20	interpersonnel 	0.0318		20
+
+Cluster 3 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_100', 'doc_102', 'doc_105', 'doc_109', 'doc_113', 'doc_132', 'doc_133', 'doc_139', 'doc_145', 'doc_147', 'doc_22', 'doc_27', 'doc_3', 'doc_36', 'doc_39', 'doc_46', 'doc_47', 'doc_58', 'doc_60', 'doc_64', 'doc_68', 'doc_73', 'doc_75', 'doc_77', 'doc_79', 'doc_94', 'doc_98']
+
+Top 20 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	about-us       	0.0579		1
+2	topia          	0.0502		2
+3	sims           	0.0418		3
+4	fricker        	0.0391		4
+5	kosar          	0.0391		5
+6	anvari         	0.0391		6
+7	irector        	0.0391		7
+8	ejudice        	0.0391		8
+9	culpable       	0.0391		9
+10	diabolic       	0.0391		10
+11	epistemically  	0.0391		11
+12	knowledge-making	0.0391		12
+13	prejudiced     	0.0391		13
+14	unjustly       	0.0391		14
+15	hearer         	0.0391		15
+16	mockingbird    	0.0391		16
+17	unprejudiced   	0.0391		17
+18	courtroom      	0.0391		18
+19	religiou       	0.0391		19
+20	panoply        	0.0391		20
+
+Cluster 4 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_13', 'doc_130', 'doc_134', 'doc_135', 'doc_141', 'doc_144', 'doc_148', 'doc_2', 'doc_28', 'doc_4', 'doc_49', 'doc_65', 'doc_71', 'doc_78', 'doc_95', 'doc_96']
+
+Top 20 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	hectare        	0.0624		1
+2	highrez        	0.0489		2
+3	mart           	0.0489		3
+4	resnets        	0.0450		4
+5	kakkasuak      	0.0417		5
+6	achim          	0.0380		6
+7	lafay          	0.0380		7
+8	osana          	0.0380		8
+9	ascale         	0.0380		9
+10	dld            	0.0380		10
+11	patholog       	0.0380		11
+12	videorecorded  	0.0380		12
+13	roups          	0.0380		13
+14	manipulatives  	0.0380		14
+15	orthophoniste  	0.0380		15
+16	ngage          	0.0380		16
+17	cliniqu        	0.0380		17
+18	ariane         	0.0380		18
+19	despots        	0.0380		19
+20	barilaro       	0.0380		20
+
+Cluster 5 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_10', 'doc_115', 'doc_116', 'doc_118', 'doc_122', 'doc_124', 'doc_129', 'doc_20', 'doc_23', 'doc_25', 'doc_45', 'doc_5', 'doc_50', 'doc_54', 'doc_67', 'doc_70', 'doc_8', 'doc_83', 'doc_88', 'doc_99']
+
+Top 20 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	f-dc           	0.0963		1
+2	dichlorophenoxyacetic	0.0826		2
+3	yox            	0.0696		3
+4	abh            	0.0676		4
+5	zno            	0.0674		5
+6	hplc           	0.0674		6
+7	transus        	0.0652		7
+8	laths          	0.0652		8
+9	s-dc           	0.0642		9
+10	f-fc           	0.0642		10
+11	dioxygenase    	0.0600		11
+12	carboxy        	0.0600		12
+13	carboxymuconolactone	0.0600		13
+14	ketoadipate    	0.0600		14
+15	thiogalactopyranoside	0.0600		15
+16	oxoadipate     	0.0600		16
+17	ketoadipyl     	0.0600		17
+18	wbh            	0.0600		18
+19	ebm            	0.0600		19
+20	octave         	0.0584		20

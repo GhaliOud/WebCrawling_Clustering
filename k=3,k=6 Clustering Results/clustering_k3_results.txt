@@ -1,0 +1,105 @@
+Clustering Analysis with k=3 (Faculties)
+================================================================================
+Number of documents: 120
+TF-IDF matrix shape: (120, 108626)
+Overall Silhouette Score: 0.671
+
+
+Cluster Metrics:
+----------------------------------------
+
+Cluster 0:
+Size: 65 documents
+Average Silhouette Score: 0.669
+
+Cluster 1:
+Size: 49 documents
+Average Silhouette Score: 0.640
+
+Cluster 2:
+Size: 6 documents
+Average Silhouette Score: 0.939
+
+Cluster 0 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_10', 'doc_101', 'doc_11', 'doc_112', 'doc_115', 'doc_116', 'doc_117', 'doc_118', 'doc_119', 'doc_12', 'doc_120', 'doc_121', 'doc_122', 'doc_123', 'doc_124', 'doc_125', 'doc_129', 'doc_13', 'doc_130', 'doc_131', 'doc_135', 'doc_143', 'doc_144', 'doc_148', 'doc_149', 'doc_15', 'doc_151', 'doc_16', 'doc_18', 'doc_19', 'doc_2', 'doc_20', 'doc_23', 'doc_25', 'doc_28', 'doc_31', 'doc_34', 'doc_35', 'doc_37', 'doc_40', 'doc_41', 'doc_44', 'doc_45', 'doc_49', 'doc_5', 'doc_50', 'doc_54', 'doc_6', 'doc_65', 'doc_67', 'doc_70', 'doc_72', 'doc_78', 'doc_8', 'doc_80', 'doc_82', 'doc_83', 'doc_84', 'doc_85', 'doc_86', 'doc_88', 'doc_90', 'doc_95', 'doc_96', 'doc_99']
+
+Top 20 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	f-dc           	0.0963		1
+2	tiered         	0.0861		2
+3	dichlorophenoxyacetic	0.0826		3
+4	nilm           	0.0714		4
+5	yox            	0.0696		5
+6	abh            	0.0676		6
+7	zno            	0.0674		7
+8	hplc           	0.0674		8
+9	transus        	0.0652		9
+10	laths          	0.0652		10
+11	s-dc           	0.0642		11
+12	f-fc           	0.0642		12
+13	hectare        	0.0624		13
+14	dioxygenase    	0.0600		14
+15	carboxy        	0.0600		15
+16	carboxymuconolactone	0.0600		16
+17	ketoadipate    	0.0600		17
+18	thiogalactopyranoside	0.0600		18
+19	oxoadipate     	0.0600		19
+20	ketoadipyl     	0.0600		20
+
+Cluster 1 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_100', 'doc_102', 'doc_105', 'doc_108', 'doc_109', 'doc_113', 'doc_132', 'doc_133', 'doc_134', 'doc_136', 'doc_139', 'doc_140', 'doc_141', 'doc_145', 'doc_147', 'doc_22', 'doc_24', 'doc_26', 'doc_27', 'doc_3', 'doc_33', 'doc_36', 'doc_38', 'doc_39', 'doc_4', 'doc_43', 'doc_46', 'doc_47', 'doc_55', 'doc_57', 'doc_58', 'doc_59', 'doc_60', 'doc_61', 'doc_62', 'doc_64', 'doc_66', 'doc_68', 'doc_71', 'doc_73', 'doc_75', 'doc_76', 'doc_77', 'doc_79', 'doc_81', 'doc_9', 'doc_93', 'doc_94', 'doc_98']
+
+Top 20 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	about-us       	0.0579		1
+2	topia          	0.0502		2
+3	tug            	0.0495		3
+4	atik           	0.0495		4
+5	chanism        	0.0495		5
+6	erdal          	0.0495		6
+7	sabiha         	0.0495		7
+8	valentina      	0.0495		8
+9	ruck           	0.0495		9
+10	rholes         	0.0495		10
+11	rouner         	0.0495		11
+12	schembri       	0.0495		12
+13	escalas        	0.0495		13
+14	itse           	0.0495		14
+15	aguirre        	0.0495		15
+16	herskovitz     	0.0495		16
+17	traveler       	0.0495		17
+18	gerrig         	0.0495		18
+19	portation      	0.0495		19
+20	schumann       	0.0495		20
+
+Cluster 2 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_103', 'doc_111', 'doc_137', 'doc_32', 'doc_53', 'doc_91']
+
+Top 20 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	masculins      	0.0436		1
+2	rche           	0.0396		2
+3	tissage        	0.0374		3
+4	fqs            	0.0364		4
+5	ekwuyasi       	0.0348		5
+6	minitaire      	0.0348		6
+7	camion         	0.0321		7
+8	bacon-villemaire	0.0318		8
+9	co-directrice  	0.0318		9
+10	guylaine       	0.0318		10
+11	charles-antoine	0.0318		11
+12	trauma-informed	0.0318		12
+13	timt           	0.0318		13
+14	recenser       	0.0318		14
+15	existerait     	0.0318		15
+16	reconnaissances	0.0318		16
+17	chaleureusement	0.0318		17
+18	apportant      	0.0318		18
+19	infiniment     	0.0318		19
+20	interpersonnel 	0.0318		20

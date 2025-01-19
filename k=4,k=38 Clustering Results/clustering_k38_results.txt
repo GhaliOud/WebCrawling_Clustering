@@ -1,0 +1,2365 @@
+Clustering Analysis with k=38 (Departments)
+================================================================================
+Number of documents: 120
+TF-IDF matrix shape: (120, 108626)
+Overall Silhouette Score: 0.144
+
+
+Cluster Metrics:
+----------------------------------------
+
+Cluster 0:
+Size: 3 documents
+Average Silhouette Score: 0.301
+
+Cluster 1:
+Size: 4 documents
+Average Silhouette Score: 0.171
+
+Cluster 2:
+Size: 5 documents
+Average Silhouette Score: 0.018
+
+Cluster 3:
+Size: 2 documents
+Average Silhouette Score: 0.047
+
+Cluster 4:
+Size: 6 documents
+Average Silhouette Score: 0.450
+
+Cluster 5:
+Size: 6 documents
+Average Silhouette Score: 0.098
+
+Cluster 6:
+Size: 8 documents
+Average Silhouette Score: 0.066
+
+Cluster 7:
+Size: 5 documents
+Average Silhouette Score: 0.078
+
+Cluster 8:
+Size: 3 documents
+Average Silhouette Score: 0.227
+
+Cluster 9:
+Size: 8 documents
+Average Silhouette Score: 0.029
+
+Cluster 10:
+Size: 3 documents
+Average Silhouette Score: 0.036
+
+Cluster 11:
+Size: 6 documents
+Average Silhouette Score: 0.099
+
+Cluster 12:
+Size: 3 documents
+Average Silhouette Score: 0.305
+
+Cluster 13:
+Size: 5 documents
+Average Silhouette Score: -0.027
+
+Cluster 14:
+Size: 2 documents
+Average Silhouette Score: 0.158
+
+Cluster 15:
+Size: 2 documents
+Average Silhouette Score: 0.629
+
+Cluster 16:
+Size: 2 documents
+Average Silhouette Score: 0.506
+
+Cluster 17:
+Size: 3 documents
+Average Silhouette Score: 0.156
+
+Cluster 18:
+Size: 3 documents
+Average Silhouette Score: -0.025
+
+Cluster 19:
+Size: 2 documents
+Average Silhouette Score: 0.075
+
+Cluster 20:
+Size: 4 documents
+Average Silhouette Score: 0.189
+
+Cluster 21:
+Size: 2 documents
+Average Silhouette Score: 0.575
+
+Cluster 22:
+Size: 2 documents
+Average Silhouette Score: 0.115
+
+Cluster 23:
+Size: 3 documents
+Average Silhouette Score: 0.307
+
+Cluster 24:
+Size: 1 documents
+Average Silhouette Score: 0.000
+
+Cluster 25:
+Size: 1 documents
+Average Silhouette Score: 0.000
+
+Cluster 26:
+Size: 1 documents
+Average Silhouette Score: 0.000
+
+Cluster 27:
+Size: 1 documents
+Average Silhouette Score: 0.000
+
+Cluster 28:
+Size: 3 documents
+Average Silhouette Score: 0.139
+
+Cluster 29:
+Size: 5 documents
+Average Silhouette Score: 0.101
+
+Cluster 30:
+Size: 4 documents
+Average Silhouette Score: -0.053
+
+Cluster 31:
+Size: 3 documents
+Average Silhouette Score: -0.010
+
+Cluster 32:
+Size: 2 documents
+Average Silhouette Score: 0.385
+
+Cluster 33:
+Size: 2 documents
+Average Silhouette Score: 0.507
+
+Cluster 34:
+Size: 1 documents
+Average Silhouette Score: 0.000
+
+Cluster 35:
+Size: 1 documents
+Average Silhouette Score: 0.000
+
+Cluster 36:
+Size: 2 documents
+Average Silhouette Score: 0.144
+
+Cluster 37:
+Size: 1 documents
+Average Silhouette Score: 0.000
+
+Cluster 0 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_112', 'doc_131', 'doc_19']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	enciso         	0.0503		1
+2	bigru          	0.0486		2
+3	cabarcos       	0.0486		3
+4	pre-covid      	0.0448		4
+5	abc            	0.0424		5
+6	ramos          	0.0380		6
+7	bilstm         	0.0340		7
+8	jarque         	0.0340		8
+9	resnet         	0.0322		9
+10	vargoorani     	0.0300		10
+11	ebrahimi       	0.0300		11
+12	iiabstract     	0.0300		12
+13	recogniti      	0.0300		13
+14	alpr           	0.0300		14
+15	r-cnn          	0.0300		15
+16	cnn-rnn        	0.0300		16
+17	ctc            	0.0300		17
+18	mobilenet      	0.0300		18
+19	ficulties      	0.0300		19
+20	dreadnought    	0.0300		20
+21	openalpr       	0.0300		21
+22	iiiacknowledgeme	0.0300		22
+23	ivdedicatio    	0.0300		23
+24	samadi         	0.0300		24
+25	tari           	0.0300		25
+26	al-anjari      	0.0300		26
+27	vixi           	0.0300		27
+28	lpd            	0.0300		28
+29	faster-rcnn    	0.0300		29
+30	state-wise     	0.0300		30
+31	viifigure      	0.0300		31
+32	ufpr-alpr      	0.0300		32
+33	cenparmi       	0.0300		33
+34	precision-confidence	0.0300		34
+35	precision-recall	0.0300		35
+36	recall-confidence	0.0300		36
+37	ngles          	0.0300		37
+38	securi         	0.0300		38
+39	utions         	0.0300		39
+40	overse         	0.0300		40
+41	onfirming      	0.0300		41
+42	thoroughfares  	0.0300		42
+43	roadways       	0.0300		43
+44	ributes        	0.0300		44
+45	low-light      	0.0300		45
+46	typeface       	0.0300		46
+47	alphanume      	0.0300		47
+48	historicall    	0.0300		48
+49	typefaces      	0.0300		49
+50	deliberat      	0.0300		50
+
+Cluster 1 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_100', 'doc_22', 'doc_36', 'doc_39']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	fricker        	0.0391		1
+2	kosar          	0.0391		2
+3	anvari         	0.0391		3
+4	irector        	0.0391		4
+5	ejudice        	0.0391		5
+6	culpable       	0.0391		6
+7	diabolic       	0.0391		7
+8	epistemically  	0.0391		8
+9	knowledge-making	0.0391		9
+10	prejudiced     	0.0391		10
+11	unjustly       	0.0391		11
+12	hearer         	0.0391		12
+13	mockingbird    	0.0391		13
+14	unprejudiced   	0.0391		14
+15	courtroom      	0.0391		15
+16	religiou       	0.0391		16
+17	panoply        	0.0391		17
+18	knowledge-sharing	0.0391		18
+19	gullible       	0.0391		19
+20	charms         	0.0391		20
+21	seduce         	0.0391		21
+22	knowers        	0.0391		22
+23	colloquial     	0.0391		23
+24	ordination     	0.0391		24
+25	sinning        	0.0391		25
+26	secker         	0.0391		26
+27	articipation   	0.0391		27
+28	amed           	0.0391		28
+29	misogynist     	0.0391		29
+30	polymorphous   	0.0391		30
+31	cardinals      	0.0391		31
+32	archbishops    	0.0391		32
+33	argumen        	0.0391		33
+34	homily         	0.0391		34
+35	nccb           	0.0391		35
+36	all-male       	0.0391		36
+37	diaconate      	0.0391		37
+38	contrition     	0.0391		38
+39	aragraph       	0.0391		39
+40	testimo        	0.0391		40
+41	whistleblowers 	0.0391		41
+42	tendnecy       	0.0391		42
+43	dereserves     	0.0391		43
+44	crandall       	0.0391		44
+45	eshleman       	0.0391		45
+46	outgroups      	0.0391		46
+47	injusti        	0.0391		47
+48	ginalized      	0.0391		48
+49	drasti         	0.0391		49
+50	nteraction     	0.0391		50
+
+Cluster 2 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_12', 'doc_143', 'doc_31', 'doc_40', 'doc_6']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	dct            	0.0754		1
+2	rp             	0.0467		2
+3	bursty         	0.0420		3
+4	shadan         	0.0420		4
+5	ghadimigheshlaghi	0.0420		5
+6	ghafouri       	0.0420		6
+7	burstiness     	0.0420		7
+8	gdcmlda        	0.0420		8
+9	beta-liouville 	0.0420		9
+10	bldcmlda       	0.0420		10
+11	perplexity     	0.0420		11
+12	coher          	0.0420		12
+13	hafsa          	0.0420		13
+14	ennajari       	0.0420		14
+15	zetane         	0.0420		15
+16	four-month     	0.0420		16
+17	dcmlda         	0.0420		17
+18	newsgroups     	0.0420		18
+19	bdiri          	0.0420		19
+20	ziou           	0.0420		20
+21	elguebaly      	0.0420		21
+22	zamzami        	0.0420		22
+23	inflexibility  	0.0420		23
+24	trieval        	0.0420		24
+25	deerwester     	0.0420		25
+26	dumais         	0.0420		26
+27	harshman       	0.0420		27
+28	svd            	0.0420		28
+29	term-document  	0.0420		29
+30	synonymy       	0.0420		30
+31	polysemy       	0.0420		31
+32	plsi           	0.0420		32
+33	vancement      	0.0420		33
+34	topic-specific 	0.0420		34
+35	blei           	0.0420		35
+36	archical       	0.0420		36
+37	bag-of-words   	0.0420		37
+38	finetti        	0.0420		38
+39	gonda          	0.0420		39
+40	sential        	0.0420		40
+41	zaheer         	0.0420		41
+42	bursti         	0.0420		42
+43	document-specific	0.0420		43
+44	top-level      	0.0420		44
+45	elkan          	0.0420		45
+46	kextra         	0.0420		46
+47	word-level     	0.0420		47
+48	tingfan        	0.0420		48
+49	conjugacy      	0.0420		49
+50	gorization     	0.0420		50
+
+Cluster 3 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_123', 'doc_38']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	gaap           	0.0583		1
+2	ks             	0.0369		2
+3	barile         	0.0315		3
+4	jessic         	0.0315		4
+5	transparenc    	0.0315		5
+6	costera        	0.0315		6
+7	citynews       	0.0315		7
+8	chings         	0.0315		8
+9	wholeheartedness	0.0315		9
+10	theortical     	0.0315		10
+11	gutenberg      	0.0315		11
+12	guglielmo      	0.0315		12
+13	marconi        	0.0315		13
+14	dcast          	0.0315		14
+15	kuyucu         	0.0315		15
+16	onlin          	0.0315		16
+17	advisements    	0.0315		17
+18	alists         	0.0315		18
+19	ahmadinejad    	0.0315		19
+20	misinformati   	0.0315		20
+21	multiplatform  	0.0315		21
+22	gruzd          	0.0315		22
+23	journali       	0.0315		23
+24	komorowski     	0.0315		24
+25	clickbait      	0.0315		25
+26	iktok          	0.0315		26
+27	mysp           	0.0315		27
+28	demolishing    	0.0315		28
+29	degena         	0.0315		29
+30	tru            	0.0315		30
+31	kampen         	0.0315		31
+32	laski          	0.0315		32
+33	vaccinations   	0.0315		33
+34	vaccines       	0.0315		34
+35	knowi          	0.0315		35
+36	kakkar         	0.0315		36
+37	fact-based     	0.0315		37
+38	taulli         	0.0315		38
+39	vlogs          	0.0315		39
+40	iap            	0.0315		40
+41	koetsier       	0.0315		41
+42	mcspadden      	0.0315		42
+43	youngsters     	0.0315		43
+44	stokel         	0.0315		44
+45	entices        	0.0315		45
+46	unprecedentedly	0.0315		46
+47	bhandari       	0.0315		47
+48	bimo           	0.0315		48
+49	coine          	0.0315		49
+50	algorithmized  	0.0315		50
+
+Cluster 4 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_103', 'doc_111', 'doc_137', 'doc_32', 'doc_53', 'doc_91']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	masculins      	0.0436		1
+2	rche           	0.0396		2
+3	tissage        	0.0374		3
+4	fqs            	0.0364		4
+5	ekwuyasi       	0.0348		5
+6	minitaire      	0.0348		6
+7	camion         	0.0321		7
+8	bacon-villemaire	0.0318		8
+9	co-directrice  	0.0318		9
+10	guylaine       	0.0318		10
+11	charles-antoine	0.0318		11
+12	trauma-informed	0.0318		12
+13	timt           	0.0318		13
+14	recenser       	0.0318		14
+15	existerait     	0.0318		15
+16	reconnaissances	0.0318		16
+17	chaleureusement	0.0318		17
+18	apportant      	0.0318		18
+19	infiniment     	0.0318		19
+20	interpersonnel 	0.0318		20
+21	stresseurs     	0.0318		21
+22	interpersonnels	0.0318		22
+23	intrapersonnels	0.0318		23
+24	gardiens       	0.0318		24
+25	hussey         	0.0318		25
+26	sensorimoteur  	0.0318		26
+27	comportementale	0.0318		27
+28	post-traumatique	0.0318		28
+29	spt            	0.0318		29
+30	milot          	0.0318		30
+31	kendall-tackett	0.0318		31
+32	insuffisant    	0.0318		32
+33	rencontraient  	0.0318		33
+34	comportementaux	0.0318		34
+35	relationnelle  	0.0318		35
+36	parentale      	0.0318		36
+37	cliniques      	0.0318		37
+38	soutenant      	0.0318		38
+39	levenson       	0.0318		39
+40	soldats        	0.0318		40
+41	humaniste      	0.0318		41
+42	nctsn          	0.0318		42
+43	saine          	0.0318		43
+44	bienveillante  	0.0318		44
+45	communicatif   	0.0318		45
+46	rubrique       	0.0318		46
+47	enracine       	0.0318		47
+48	graduellement  	0.0318		48
+49	multidisciplinaires	0.0318		49
+50	communautaires 	0.0318		50
+
+Cluster 5 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_115', 'doc_23', 'doc_45', 'doc_50', 'doc_70', 'doc_80']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	yox            	0.0696		1
+2	zno            	0.0674		2
+3	hplc           	0.0674		3
+4	meoh           	0.0620		4
+5	wbh            	0.0600		5
+6	mol            	0.0553		6
+7	rh             	0.0471		7
+8	caes           	0.0457		8
+9	multi-period   	0.0412		9
+10	shurui         	0.0412		10
+11	mscm           	0.0412		11
+12	navneet        	0.0412		12
+13	vidyarthi      	0.0412		13
+14	satir          	0.0412		14
+15	businessabstract	0.0412		15
+16	compounding    	0.0412		16
+17	saa            	0.0412		17
+18	lagrangean     	0.0412		18
+19	high-demand    	0.0412		19
+20	outsourc       	0.0412		20
+21	gianturco      	0.0412		21
+22	mattingly      	0.0412		22
+23	just-in-time   	0.0412		23
+24	maceutical     	0.0412		24
+25	nikzad         	0.0412		25
+26	cordeau        	0.0412		26
+27	chance-constrained	0.0412		27
+28	veloped        	0.0412		28
+29	charnes        	0.0412		29
+30	adelman        	0.0412		30
+31	pre-agreed     	0.0412		31
+32	inventoried    	0.0412		32
+33	overstock      	0.0412		33
+34	replenishment  	0.0412		34
+35	quent          	0.0412		35
+36	ready-to-use   	0.0412		36
+37	patient-specific	0.0412		37
+38	aptel          	0.0412		38
+39	pourjalali     	0.0412		39
+40	balkhi         	0.0412		40
+41	alshahrani     	0.0412		41
+42	unanticipated  	0.0412		42
+43	abdelmaguid    	0.0412		43
+44	dessouky       	0.0412		44
+45	alinaghian     	0.0412		45
+46	bi-objective   	0.0412		46
+47	ramadhan       	0.0412		47
+48	rizana         	0.0412		48
+49	multi-product  	0.0412		49
+50	multi-supplier 	0.0412		50
+
+Cluster 6 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_133', 'doc_147', 'doc_27', 'doc_4', 'doc_71', 'doc_75', 'doc_81', 'doc_9']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	achim          	0.0380		1
+2	lafay          	0.0380		2
+3	osana          	0.0380		3
+4	ascale         	0.0380		4
+5	dld            	0.0380		5
+6	patholog       	0.0380		6
+7	videorecorded  	0.0380		7
+8	roups          	0.0380		8
+9	manipulatives  	0.0380		9
+10	orthophoniste  	0.0380		10
+11	ngage          	0.0380		11
+12	cliniqu        	0.0380		12
+13	ariane         	0.0380		13
+14	despots        	0.0380		14
+15	barilaro       	0.0380		15
+16	orthophonistes 	0.0380		16
+17	tentation      	0.0380		17
+18	celf           	0.0380		18
+19	transcoding    	0.0380		19
+20	riccomini      	0.0380		20
+21	corte          	0.0380		21
+22	kintsch        	0.0380		22
+23	chocolates     	0.0380		23
+24	koponen        	0.0380		24
+25	thematical     	0.0380		25
+26	raimbault      	0.0380		26
+27	jitendra       	0.0380		27
+28	pathologists   	0.0380		28
+29	slp            	0.0380		29
+30	tsakirakis     	0.0380		30
+31	slps           	0.0380		31
+32	titioners      	0.0380		32
+33	breault        	0.0380		33
+34	christopulos   	0.0380		34
+35	ssionally      	0.0380		35
+36	ziegenfusz     	0.0380		36
+37	senten         	0.0380		37
+38	pizzioli       	0.0380		38
+39	schelstraete   	0.0380		39
+40	agrammatical   	0.0380		40
+41	dgment         	0.0380		41
+42	requency       	0.0380		42
+43	dodwell        	0.0380		43
+44	bavin          	0.0380		44
+45	liles          	0.0380		45
+46	botting        	0.0380		46
+47	delage         	0.0380		47
+48	nguage         	0.0380		48
+49	memorizing     	0.0380		49
+50	fazio          	0.0380		50
+
+Cluster 7 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_118', 'doc_122', 'doc_5', 'doc_8', 'doc_99']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	abh            	0.0676		1
+2	octave         	0.0584		2
+3	micron         	0.0519		3
+4	rx             	0.0514		4
+5	ply            	0.0361		5
+6	temitope       	0.0338		6
+7	akinpelu       	0.0338		7
+8	sedagahti      	0.0338		8
+9	ghazanfarah    	0.0338		9
+10	hafeez         	0.0338		10
+11	behrooz        	0.0338		11
+12	joonhee        	0.0338		12
+13	cross-laminated	0.0338		13
+14	sorbed         	0.0338		14
+15	finite-element 	0.0338		15
+16	vibro-acoustic 	0.0338		16
+17	abh-clt        	0.0338		17
+18	third-octave   	0.0338		18
+19	quencies       	0.0338		19
+20	abhs           	0.0338		20
+21	fluid-structure	0.0338		21
+22	vireferences   	0.0338		22
+23	b-c            	0.0338		23
+24	socks          	0.0338		24
+25	dicative       	0.0338		25
+26	terminus       	0.0338		26
+27	dashed-dotted  	0.0338		27
+28	cut-on         	0.0338		28
+29	tunnelled      	0.0338		29
+30	timoshenko     	0.0338		30
+31	plyhmax        	0.0338		31
+32	structure-fluid	0.0338		32
+33	baffle         	0.0338		33
+34	uniform-clt    	0.0338		34
+35	single-cell    	0.0338		35
+36	topleft        	0.0338		36
+37	topright       	0.0338		37
+38	bottomleft     	0.0338		38
+39	bottomright    	0.0338		39
+40	non-residential	0.0338		40
+41	wood-framing   	0.0338		41
+42	multi-story    	0.0338		42
+43	fire-resistant 	0.0338		43
+44	semi-active    	0.0338		44
+45	metamaterials  	0.0338		45
+46	substructures  	0.0338		46
+47	mironov        	0.0338		47
+48	nonreflecting  	0.0338		48
+49	power-law      	0.0338		49
+50	vibro-acoustics	0.0338		50
+
+Cluster 8 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_11', 'doc_119', 'doc_15']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	whitepaper     	0.0518		1
+2	aes            	0.0372		2
+3	narayananchair 	0.0370		3
+4	goswamiexaminer	0.0370		4
+5	narayananexaminer	0.0370		5
+6	jaumardthesis  	0.0370		6
+7	charalambos    	0.0370		7
+8	poullis        	0.0370		8
+9	pre-emptively  	0.0370		9
+10	stress-ng      	0.0370		10
+11	ericsson       	0.0370		11
+12	dcs            	0.0370		12
+13	three-node     	0.0370		13
+14	proliant       	0.0370		14
+15	liant          	0.0370		15
+16	energy-reducing	0.0370		16
+17	sub-system     	0.0370		17
+18	radiators      	0.0370		18
+19	software-side  	0.0370		19
+20	to-manage      	0.0370		20
+21	container-on-vm	0.0370		21
+22	sub-sections   	0.0370		22
+23	chines         	0.0370		23
+24	over-provisioning	0.0370		24
+25	software-oriented	0.0370		25
+26	especifically  	0.0370		26
+27	ml-assisted    	0.0370		27
+28	moocheet       	0.0370		28
+29	over-provisioned	0.0370		29
+30	helali         	0.0370		30
+31	fluctuat       	0.0370		31
+32	al-moalmi      	0.0370		32
+33	pmcs           	0.0370		33
+34	orchestrator   	0.0370		34
+35	dimm           	0.0370		35
+36	hdd            	0.0370		36
+37	two-layer      	0.0370		37
+38	dockerfile     	0.0370		38
+39	kuber          	0.0370		39
+40	netes          	0.0370		40
+41	yaml           	0.0370		41
+42	initializer    	0.0370		42
+43	executable     	0.0370		43
+44	minating       	0.0370		44
+45	indef          	0.0370		45
+46	initely        	0.0370		46
+47	ipmi           	0.0370		47
+48	non-peak       	0.0370		48
+49	global-scale   	0.0370		49
+50	less-studied   	0.0370		50
+
+Cluster 9 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_113', 'doc_139', 'doc_3', 'doc_60', 'doc_64', 'doc_77', 'doc_79', 'doc_98']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	yearbook       	0.0418		1
+2	sims           	0.0418		2
+3	year-old       	0.0402		3
+4	llaborative    	0.0316		4
+5	politically-left	0.0316		5
+6	deardiarymemes 	0.0316		6
+7	theorypractice 	0.0316		7
+8	leftist        	0.0316		8
+9	sprouting      	0.0316		9
+10	out-stagram    	0.0316		10
+11	mastodon       	0.0316		11
+12	tapestries     	0.0316		12
+13	identiti       	0.0316		13
+14	focusin        	0.0316		14
+15	self-expressive	0.0316		15
+16	interreferential	0.0316		16
+17	eschew         	0.0316		17
+18	layouts        	0.0316		18
+19	starte         	0.0316		19
+20	forum-style    	0.0316		20
+21	pepe           	0.0316		21
+22	right-wing     	0.0316		22
+23	supremac       	0.0316		23
+24	incel          	0.0316		24
+25	beauchamp      	0.0316		25
+26	convinces      	0.0316		26
+27	auditorium     	0.0316		27
+28	goth           	0.0316		28
+29	shakir         	0.0316		29
+30	shakira        	0.0316		30
+31	then-new       	0.0316		31
+32	impact-font    	0.0316		32
+33	unformatted    	0.0316		33
+34	latina         	0.0316		34
+35	stream-of-consciousness	0.0316		35
+36	hyper-specific 	0.0316		36
+37	hyper-personal 	0.0316		37
+38	latina-canadian	0.0316		38
+39	hyper-relatabl 	0.0316		39
+40	autotheoretical	0.0316		40
+41	then-developing	0.0316		41
+42	weaves         	0.0316		42
+43	marxist-feminist	0.0316		43
+44	marginalize    	0.0316		44
+45	memeing        	0.0316		45
+46	berne          	0.0316		46
+47	necess         	0.0316		47
+48	reappropriati  	0.0316		48
+49	erviews        	0.0316		49
+50	eye-catching   	0.0316		50
+
+Cluster 10 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_101', 'doc_121', 'doc_82']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	nilm           	0.0714		1
+2	quantile       	0.0628		2
+3	intrusive      	0.0560		3
+4	maker          	0.0476		4
+5	davar          	0.0416		5
+6	treme          	0.0416		6
+7	evt            	0.0416		7
+8	pareto         	0.0416		8
+9	nig            	0.0416		9
+10	pure-jump      	0.0416		10
+11	semi-heavy     	0.0416		11
+12	delta-gamma    	0.0416		12
+13	risk-aware     	0.0416		13
+14	schoutens      	0.0416		14
+15	sarykalin      	0.0416		15
+16	serraino       	0.0416		16
+17	uryasev        	0.0416		17
+18	barto          	0.0416		18
+19	cvar-evt       	0.0416		19
+20	cvar-sa        	0.0416		20
+21	cconsidered    	0.0416		21
+22	nemati         	0.0416		22
+23	hambly         	0.0416		23
+24	peaks-over-threshold	0.0416		24
+25	exceedances    	0.0416		25
+26	equal-sized    	0.0416		26
+27	fisher-tippett 	0.0416		27
+28	pickands       	0.0416		28
+29	balkema-de     	0.0416		29
+30	heavy-tailed   	0.0416		30
+31	at-the-money   	0.0416		31
+32	semi-heavy-tailed	0.0416		32
+33	robo-advising  	0.0416		33
+34	capponi        	0.0416		34
+35	olafsson       	0.0416		35
+36	zariphopoulou  	0.0416		36
+37	herent         	0.0416		37
+38	artzner        	0.0416		38
+39	delbaen        	0.0416		39
+40	eber           	0.0416		40
+41	rockafellar    	0.0416		41
+42	borkar         	0.0416		42
+43	tamar          	0.0416		43
+44	mannor         	0.0416		44
+45	ghavamzadeh    	0.0416		45
+46	mean-variance  	0.0416		46
+47	szepesv        	0.0416		47
+48	pavone         	0.0416		48
+49	glassner       	0.0416		49
+50	portfo         	0.0416		50
+
+Cluster 11 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_149', 'doc_44', 'doc_72', 'doc_84', 'doc_85', 'doc_90']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	tiered         	0.0861		1
+2	cyclically     	0.0584		2
+3	campbell-johnson	0.0527		3
+4	sciencethe     	0.0527		4
+5	disutility     	0.0527		5
+6	runctions      	0.0527		6
+7	from-home      	0.0527		7
+8	vandenbroucke  	0.0527		8
+9	uptick         	0.0527		9
+10	godbey         	0.0527		10
+11	rendell        	0.0527		11
+12	formica        	0.0527		12
+13	sfodera        	0.0527		13
+14	ahin           	0.0527		14
+15	forsythe       	0.0527		15
+16	quitters       	0.0527		16
+17	adair          	0.0527		17
+18	moisoglou      	0.0527		18
+19	federal-issued 	0.0527		19
+20	cobb-douglas   	0.0527		20
+21	tandais        	0.0527		21
+22	aln            	0.0527		22
+23	bht            	0.0527		23
+24	lnct           	0.0527		24
+25	parenleftbiggyt	0.0527		25
+26	etdenotes      	0.0527		26
+27	ktandhtare     	0.0527		27
+28	benveniste-scheinkman	0.0527		28
+29	vtwith         	0.0527		29
+30	ctandct        	0.0527		30
+31	labor-leisure  	0.0527		31
+32	bwill          	0.0527		32
+33	gsatisfies     	0.0527		33
+34	half-open      	0.0527		34
+35	anddg          	0.0527		35
+36	breduces       	0.0527		36
+37	labour-leisure 	0.0527		37
+38	candyt         	0.0527		38
+39	yandkt         	0.0527		39
+40	candyin        	0.0527		40
+41	yfrom          	0.0527		41
+42	hwith          	0.0527		42
+43	awill          	0.0527		43
+44	work-hour      	0.0527		44
+45	high-disutility	0.0527		45
+46	aincreases     	0.0527		46
+47	dynare         	0.0527		47
+48	stoch          	0.0527		48
+49	ifications     	0.0527		49
+50	hodrick-prescott	0.0527		50
+
+Cluster 12 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_57', 'doc_62', 'doc_76']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	kyleigh        	0.0378		1
+2	brisson        	0.0378		2
+3	aeed           	0.0378		3
+4	hilosophical   	0.0378		4
+5	drieberg       	0.0378		5
+6	mantilla       	0.0378		6
+7	disordere      	0.0378		7
+8	kazdin         	0.0378		8
+9	wilfrey        	0.0378		9
+10	cphc           	0.0378		10
+11	interprofessional	0.0378		11
+12	bibb           	0.0378		12
+13	ceccato        	0.0378		13
+14	roveran        	0.0378		14
+15	anxiet         	0.0378		15
+16	therapi        	0.0378		16
+17	rumination     	0.0378		17
+18	saarikallio    	0.0378		18
+19	mote           	0.0378		19
+20	ommunicate     	0.0378		20
+21	mportant       	0.0378		21
+22	overarchin     	0.0378		22
+23	camt           	0.0378		23
+24	fitzsimmons    	0.0378		24
+25	bardone        	0.0378		25
+26	anorexia       	0.0378		26
+27	nervosa        	0.0378		27
+28	bulimia        	0.0378		28
+29	co-morbid      	0.0378		29
+30	nterdisciplinary	0.0378		30
+31	psychinfo      	0.0378		31
+32	zotero         	0.0378		32
+33	organiz        	0.0378		33
+34	recreative     	0.0378		34
+35	morbidities    	0.0378		35
+36	osfed          	0.0378		36
+37	arfid          	0.0378		37
+38	pica           	0.0378		38
+39	co-morbidities 	0.0378		39
+40	self-starvation	0.0378		40
+41	woodside       	0.0378		41
+42	staab          	0.0378		42
+43	muratore       	0.0378		43
+44	attia          	0.0378		44
+45	purging        	0.0378		45
+46	laxative       	0.0378		46
+47	pietrabissa    	0.0378		47
+48	citrome        	0.0378		48
+49	boutelle       	0.0378		49
+50	riesco         	0.0378		50
+
+Cluster 13 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_117', 'doc_24', 'doc_41', 'doc_59', 'doc_66']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	cli            	0.0754		1
+2	compress       	0.0597		2
+3	closure        	0.0569		3
+4	emh            	0.0541		4
+5	leadi          	0.0541		5
+6	herding        	0.0541		6
+7	iases          	0.0541		7
+8	appe           	0.0541		8
+9	irrationally   	0.0541		9
+10	odean          	0.0541		10
+11	overconfident  	0.0541		11
+12	miscalibration 	0.0541		12
+13	shefrin        	0.0541		13
+14	underscori     	0.0541		14
+15	bikhchandani   	0.0541		15
+16	shiller        	0.0541		16
+17	nickerson      	0.0541		17
+18	undervalue     	0.0541		18
+19	disconfirming  	0.0541		19
+20	rsistent       	0.0541		20
+21	cling          	0.0541		21
+22	overemphasis   	0.0541		22
+23	overreaction   	0.0541		23
+24	loomes         	0.0541		24
+25	sugden         	0.0541		25
+26	iar            	0.0541		26
+27	estors         	0.0541		27
+28	vishny         	0.0541		28
+29	fischhoff      	0.0541		29
+30	judgm          	0.0541		30
+31	clotfelter     	0.0541		31
+32	streaks        	0.0541		32
+33	underpricing   	0.0541		33
+34	wurgler        	0.0541		34
+35	ferdaous       	0.0541		35
+36	arafin         	0.0541		36
+37	athur          	0.0541		37
+38	loosing        	0.0541		38
+39	rationalise    	0.0541		39
+40	self-attribution	0.0541		40
+41	biasness       	0.0541		41
+42	biase          	0.0541		42
+43	jinakoplos     	0.0541		43
+44	bernasek       	0.0541		44
+45	cultura        	0.0541		45
+46	tomy           	0.0541		46
+47	erience        	0.0541		47
+48	feedb          	0.0541		48
+49	ionships       	0.0541		49
+50	kallarakal     	0.0541		50
+
+Cluster 14 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_83', 'doc_88']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	dioxygenase    	0.0600		1
+2	carboxy        	0.0600		2
+3	carboxymuconolactone	0.0600		3
+4	ketoadipate    	0.0600		4
+5	thiogalactopyranoside	0.0600		5
+6	oxoadipate     	0.0600		6
+7	ketoadipyl     	0.0600		7
+8	cleavage       	0.0552		8
+9	arylated       	0.0478		9
+10	furans         	0.0478		10
+11	bromofuran     	0.0478		11
+12	carboxylate    	0.0478		12
+13	bromofurfural  	0.0478		13
+14	dibromobenzene 	0.0478		14
+15	diarylated     	0.0478		15
+16	bromo          	0.0478		16
+17	phenylfuran    	0.0478		17
+18	meo            	0.0478		18
+19	tpa            	0.0478		19
+20	furandicarboxylic	0.0478		20
+21	hydroxymethyl  	0.0478		21
+22	butadiene      	0.0478		22
+23	oligothiophenes	0.0478		23
+24	dibromothiophene	0.0478		24
+25	methoxy        	0.0478		25
+26	nitro          	0.0440		26
+27	brominated     	0.0440		27
+28	yl             	0.0440		28
+29	carboxylic     	0.0440		29
+30	methyl         	0.0392		30
+31	orbital        	0.0392		31
+32	nmr            	0.0363		32
+33	furan          	0.0358		33
+34	fold           	0.0348		34
+35	gram           	0.0337		35
+36	aromatic       	0.0336		36
+37	phenyl         	0.0336		37
+38	conjugated     	0.0336		38
+39	mono           	0.0327		39
+40	dimethyl       	0.0319		40
+41	bis            	0.0310		41
+42	protocatechuate	0.0300		42
+43	aspergillus    	0.0300		43
+44	niger          	0.0300		44
+45	catabolism     	0.0300		45
+46	muconic        	0.0300		46
+47	bioplastics    	0.0300		47
+48	preservatives  	0.0300		48
+49	antioxidants   	0.0300		49
+50	cataboli       	0.0300		50
+
+Cluster 15 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_16', 'doc_34']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	ctlccand       	0.0487		1
+2	ctlcand        	0.0487		2
+3	ctlccmodel     	0.0487		3
+4	ctlcis         	0.0487		4
+5	ctlccto        	0.0487		5
+6	ctlcto         	0.0487		6
+7	vispl          	0.0487		7
+8	ctlcmodel      	0.0487		8
+9	ctlccis        	0.0487		9
+10	ctlccfor       	0.0487		10
+11	ctlcinto       	0.0487		11
+12	ctlcccan       	0.0487		12
+13	ctl            	0.0479		13
+14	tctl           	0.0479		14
+15	iot-ad         	0.0367		15
+16	tctlc          	0.0367		16
+17	lattice        	0.0357		17
+18	ctlc           	0.0352		18
+19	ispl           	0.0352		19
+20	ctlcc          	0.0352		20
+21	mv             	0.0300		21
+22	iot            	0.0281		22
+23	logics         	0.0278		23
+24	younas         	0.0277		24
+25	security-driven	0.0277		25
+26	iiievidence    	0.0277		26
+27	mcmas-tc       	0.0277		27
+28	macmas-interactor	0.0277		28
+29	twsctlc        	0.0277		29
+30	inspirational  	0.0277		30
+31	fatemeh        	0.0277		31
+32	acls           	0.0277		32
+33	mv-tctlc       	0.0277		33
+34	bdd-based      	0.0277		34
+35	setrinf        	0.0277		35
+36	readinf        	0.0277		36
+37	lcccomputation 	0.0277		37
+38	bdd            	0.0277		38
+39	obdd           	0.0277		39
+40	verifier       	0.0277		40
+41	pspase         	0.0277		41
+42	promela        	0.0277		42
+43	ppolynomial    	0.0277		43
+44	model-theoretic	0.0277		44
+45	power-set      	0.0277		45
+46	kripke-based   	0.0277		46
+47	logical-based  	0.0277		47
+48	un-trusted     	0.0277		48
+49	poor-quality   	0.0277		49
+50	model-driven   	0.0277		50
+
+Cluster 16 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_2', 'doc_65']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	nutr           	0.0350		1
+2	chelsia        	0.0328		2
+3	gillis         	0.0328		3
+4	mbs            	0.0328		4
+5	granulocytes   	0.0328		5
+6	normalised     	0.0328		6
+7	fastclus       	0.0328		7
+8	lipoprotei     	0.0328		8
+9	ldl            	0.0328		9
+10	porat          	0.0328		10
+11	tamara         	0.0328		11
+12	conceptualised 	0.0328		12
+13	keenoa         	0.0328		13
+14	co-principal   	0.0328		14
+15	maximilien     	0.0328		15
+16	dialufuma      	0.0328		16
+17	vakambi        	0.0328		17
+18	ancova         	0.0328		18
+19	metabolic-bariatric	0.0328		19
+20	ncd            	0.0328		20
+21	cut-offs       	0.0328		21
+22	five-stage     	0.0328		22
+23	iders          	0.0328		23
+24	easo           	0.0328		24
+25	asymptomatic   	0.0328		25
+26	accum          	0.0328		26
+27	non-surgical   	0.0328		27
+28	gastrectomy    	0.0328		28
+29	en-y           	0.0328		29
+30	gastric        	0.0328		30
+31	ghrelin        	0.0328		31
+32	intestine      	0.0328		32
+33	reattached     	0.0328		33
+34	malabsorptive  	0.0328		34
+35	operationally  	0.0328		35
+36	micronutrient  	0.0328		36
+37	rygb           	0.0328		37
+38	thiamine       	0.0328		38
+39	neuropathy     	0.0328		39
+40	iron-deficiency	0.0328		40
+41	calorically    	0.0328		41
+42	postoperatively	0.0328		42
+43	asmbs          	0.0328		43
+44	parenteral     	0.0328		44
+45	enteral        	0.0328		45
+46	presurgical    	0.0328		46
+47	glucocorticoids	0.0328		47
+48	surgeries      	0.0328		48
+49	multivitamin   	0.0328		49
+50	nutritionally  	0.0328		50
+
+Cluster 17 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_20', 'doc_25', 'doc_54']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	transus        	0.0652		1
+2	laths          	0.0652		2
+3	lath           	0.0600		3
+4	ebm            	0.0600		4
+5	hal            	0.0330		5
+6	miae           	0.0326		6
+7	paria          	0.0326		7
+8	atharine       	0.0326		8
+9	to-fly         	0.0326		9
+10	olumetric      	0.0326		10
+11	estimatio      	0.0326		11
+12	marinvent      	0.0326		12
+13	catharine      	0.0326		13
+14	esmaeil        	0.0326		14
+15	duquesnay      	0.0326		15
+16	pantuso        	0.0326		16
+17	backscatter    	0.0326		17
+18	intertrack     	0.0326		18
+19	keyhole        	0.0326		19
+20	pbf            	0.0326		20
+21	feret          	0.0326		21
+22	xct            	0.0326		22
+23	pint           	0.0326		23
+24	struers        	0.0326		24
+25	secotom        	0.0326		25
+26	prestopress    	0.0326		26
+27	dowel          	0.0326		27
+28	lathe          	0.0326		28
+29	micrometrics   	0.0326		29
+30	autopore       	0.0326		30
+31	porosimeter    	0.0326		31
+32	ebsd           	0.0326		32
+33	pelco          	0.0326		33
+34	mipar          	0.0326		34
+35	instron        	0.0326		35
+36	vhx            	0.0326		36
+37	outlying       	0.0326		37
+38	isostatic      	0.0326		38
+39	ipf            	0.0326		39
+40	l-pbf          	0.0326		40
+41	arcam          	0.0326		41
+42	lloy           	0.0326		42
+43	implant        	0.0326		43
+44	thin-walled    	0.0326		44
+45	castings       	0.0326		45
+46	microstructur  	0.0326		46
+47	quintus        	0.0326		47
+48	poo            	0.0326		48
+49	kilovolts      	0.0326		49
+50	rake           	0.0326		50
+
+Cluster 18 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_132', 'doc_135', 'doc_141']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	about-us       	0.0579		1
+2	editor         	0.0422		2
+3	kakkasuak      	0.0417		3
+4	indigenous-led 	0.0290		4
+5	engos          	0.0290		5
+6	ahenakew       	0.0290		6
+7	kui            	0.0290		7
+8	non-exclusive  	0.0290		8
+9	tla            	0.0290		9
+10	klahoose       	0.0290		10
+11	homalco        	0.0290		11
+12	nakota         	0.0290		12
+13	sioux          	0.0290		13
+14	niitsitapi     	0.0290		14
+15	bengi          	0.0290		15
+16	akbulut        	0.0290		16
+17	biocultural    	0.0290		17
+18	darianne       	0.0290		18
+19	reviewer       	0.0290		19
+20	copyediting    	0.0290		20
+21	invitees       	0.0290		21
+22	fulsome        	0.0290		22
+23	pre-contact    	0.0290		23
+24	non-interference	0.0290		24
+25	duhamel        	0.0290		25
+26	repudiate      	0.0290		26
+27	elf-determined 	0.0290		27
+28	two-eyed       	0.0290		28
+29	kunming-montreal	0.0290		29
+30	co-management  	0.0290		30
+31	instigators    	0.0290		31
+32	greenpeace     	0.0290		32
+33	schoon         	0.0290		33
+34	meta-narratives	0.0290		34
+35	national-level 	0.0290		35
+36	wwf-canada     	0.0290		36
+37	nature-based   	0.0290		37
+38	partnering     	0.0290		38
+39	community-led  	0.0290		39
+40	mabee          	0.0290		40
+41	sechelt        	0.0290		41
+42	squamish       	0.0290		42
+43	single-parent  	0.0290		43
+44	songhees       	0.0290		44
+45	esquimalt      	0.0290		45
+46	suwet          	0.0290		46
+47	unist          	0.0290		47
+48	self-interested	0.0290		48
+49	guelph         	0.0290		49
+50	conservations  	0.0290		50
+
+Cluster 19 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_37', 'doc_86']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	yoneda         	0.0548		1
+2	algebra        	0.0375		2
+3	rings          	0.0347		3
+4	painlev        	0.0330		4
+5	asym           	0.0330		5
+6	ptotic         	0.0330		6
+7	balogoun       	0.0330		7
+8	razik          	0.0330		8
+9	sebak          	0.0330		9
+10	davide         	0.0330		10
+11	guzzetti       	0.0330		11
+12	korotkin       	0.0330		12
+13	kokotov        	0.0330		13
+14	hankel         	0.0330		14
+15	painleve       	0.0330		15
+16	rhp            	0.0330		16
+17	ingre          	0.0330		17
+18	dient          	0.0330		18
+19	shes           	0.0330		19
+20	generalities   	0.0330		20
+21	vy             	0.0330		21
+22	ials           	0.0330		22
+23	nctions        	0.0330		23
+24	g-function     	0.0330		24
+25	rhpw           	0.0330		25
+26	mqof           	0.0330		26
+27	rhpm           	0.0330		27
+28	solvability    	0.0330		28
+29	eot            	0.0330		29
+30	apricot-shape  	0.0330		30
+31	cmoves         	0.0330		31
+32	gambier        	0.0330		32
+33	nized          	0.0330		33
+34	mathematic     	0.0330		34
+35	confor         	0.0330		35
+36	momentous      	0.0330		36
+37	widom          	0.0330		37
+38	hastings-mcleod	0.0330		38
+39	hermitean      	0.0330		39
+40	amongstspecialsolutionsofthepainlev	0.0330		40
+41	eequation      	0.0330		41
+42	anaturalinteresti	0.0330		42
+43	sdevotedintheliterature	0.0330		43
+44	vorob          	0.0330		44
+45	ev-yablonskii  	0.0330		45
+46	discoverers    	0.0330		46
+47	yablonskii     	0.0330		47
+48	solutionsalsoappearinsemiclassicallimitsofintegrablepdes	0.0330		48
+49	inth           	0.0330		49
+50	eone           	0.0330		50
+
+Cluster 20 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_102', 'doc_109', 'doc_46', 'doc_68']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	topia          	0.0502		1
+2	venice         	0.0335		2
+3	sterbak        	0.0315		3
+4	artsiii        	0.0315		4
+5	crinoline      	0.0315		5
+6	wardrobes      	0.0315		6
+7	birdcage       	0.0315		7
+8	sartorial      	0.0315		8
+9	reappropriating	0.0315		9
+10	knots          	0.0315		10
+11	innumerous     	0.0315		11
+12	perk           	0.0315		12
+13	jake           	0.0315		13
+14	newmuseum      	0.0315		14
+15	mclerran       	0.0315		15
+16	macba          	0.0315		16
+17	obra           	0.0315		17
+18	remote-control-ii	0.0315		18
+19	cotton-braid-covered	0.0315		19
+20	plain-weave    	0.0315		20
+21	double-cloth   	0.0315		21
+22	lacma          	0.0315		22
+23	saperstein     	0.0315		23
+24	michelson      	0.0315		24
+25	edgerton       	0.0315		25
+26	vanitas        	0.0315		26
+27	albino         	0.0315		27
+28	anorectic      	0.0315		28
+29	steak          	0.0315		29
+30	candice        	0.0315		30
+31	nembhard       	0.0315		31
+32	sleek-mag      	0.0315		32
+33	jana-sterbak   	0.0315		33
+34	uninsulated    	0.0315		34
+35	nickel-chrome  	0.0315		35
+36	artforum       	0.0315		36
+37	flesh-and-bones-jana-sterback	0.0315		37
+38	stereocard     	0.0315		38
+39	howarth-loomes 	0.0315		39
+40	explore-our-collections	0.0315		40
+41	collection-search-results	0.0315		41
+42	nemiroff       	0.0315		42
+43	atsuko         	0.0315		43
+44	enamel         	0.0315		44
+45	lightbulbs     	0.0315		45
+46	ohara          	0.0315		46
+47	kaikan         	0.0315		47
+48	ryoji          	0.0315		48
+49	gutai          	0.0315		49
+50	namiko         	0.0315		50
+
+Cluster 21 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_10', 'doc_116']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	f-dc           	0.0963		1
+2	s-dc           	0.0642		2
+3	f-fc           	0.0642		3
+4	ep             	0.0641		4
+5	nlr            	0.0472		5
+6	gr-s           	0.0472		6
+7	gr-t           	0.0472		7
+8	gr-c           	0.0472		8
+9	ug-c           	0.0472		9
+10	ug-s           	0.0472		10
+11	ug-t           	0.0472		11
+12	be-c           	0.0472		12
+13	be-s           	0.0472		13
+14	be-t           	0.0472		14
+15	hlr            	0.0472		15
+16	mmbe-c         	0.0472		16
+17	storey         	0.0435		17
+18	ug             	0.0356		18
+19	gfrp           	0.0321		19
+20	osama          	0.0321		20
+21	ivil           	0.0321		21
+22	sennah         	0.0321		22
+23	anjan          	0.0321		23
+24	bhowmick       	0.0321		24
+25	ribbed         	0.0321		25
+26	crucia         	0.0321		26
+27	sendeckyj      	0.0321		27
+28	cfrp           	0.0321		28
+29	bfrp           	0.0321		29
+30	n-p            	0.0321		30
+31	noura          	0.0321		31
+32	laila          	0.0321		32
+33	tarek          	0.0321		33
+34	ciful          	0.0321		34
+35	ahdal          	0.0321		35
+36	montaser       	0.0321		36
+37	grate          	0.0321		37
+38	mst            	0.0321		38
+39	co-authorship  	0.0321		39
+40	rvisor         	0.0321		40
+41	fatigu         	0.0321		41
+42	gfr            	0.0321		42
+43	soudki         	0.0321		43
+44	deckyj         	0.0321		44
+45	stiffn         	0.0321		45
+46	broomlike      	0.0321		46
+47	vee            	0.0321		47
+48	h-ep           	0.0321		48
+49	fmin           	0.0321		49
+50	aracteristics  	0.0321		50
+
+Cluster 22 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_134', 'doc_136']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	year-old       	0.0449		1
+2	cailyn         	0.0431		2
+3	fridgen        	0.0431		3
+4	hons           	0.0431		4
+5	universtiy     	0.0431		5
+6	radomsky       	0.0431		6
+7	obsessive-compulsive	0.0431		7
+8	ocd            	0.0431		8
+9	misappraisals  	0.0431		9
+10	intrusions     	0.0431		10
+11	reappraisal-based	0.0431		11
+12	aocd           	0.0431		12
+13	kelly-turner   	0.0431		13
+14	sandstrom      	0.0431		14
+15	ouellet-courtois	0.0431		15
+16	stef           	0.0431		16
+17	often-unceasing	0.0431		17
+18	grouev         	0.0431		18
+19	colton         	0.0431		19
+20	halle          	0.0431		20
+21	often-crippling	0.0431		21
+22	incessant      	0.0431		22
+23	pika           	0.0431		23
+24	steph          	0.0431		24
+25	unbelievably   	0.0431		25
+26	rachman        	0.0431		26
+27	fineberg       	0.0431		27
+28	huppert        	0.0431		28
+29	stengler       	0.0431		29
+30	subramaniam    	0.0431		30
+31	cognitive-behavioural	0.0431		31
+32	purdon         	0.0431		32
+33	causally       	0.0431		33
+34	misappraisal   	0.0431		34
+35	salkovskis     	0.0431		35
+36	occwg          	0.0431		36
+37	moulding       	0.0431		37
+38	kyrios         	0.0431		38
+39	reuven-magril  	0.0431		39
+40	self-reports   	0.0431		40
+41	freeston       	0.0431		41
+42	ladouceur      	0.0431		42
+43	tolin          	0.0431		43
+44	mcfall         	0.0431		44
+45	wollersheim    	0.0431		45
+46	repugnant      	0.0431		46
+47	molest         	0.0431		47
+48	symptomatology 	0.0431		48
+49	control-related	0.0431		49
+50	retrospectively	0.0431		50
+
+Cluster 23 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_130', 'doc_144', 'doc_78']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	badrouyk       	0.0353		1
+2	chamlian       	0.0353		2
+3	selvadurai     	0.0353		3
+4	dayanandan     	0.0353		4
+5	s-based        	0.0353		5
+6	lake-migratory 	0.0353		6
+7	mistassini     	0.0353		7
+8	mistasiniishish	0.0353		8
+9	waconichi      	0.0353		9
+10	mistissini     	0.0353		10
+11	outfitting     	0.0353		11
+12	gtseq          	0.0353		12
+13	genotyping     	0.0353		13
+14	in-thousands   	0.0353		14
+15	polymorphisms  	0.0353		15
+16	unsampled      	0.0353		16
+17	petawabano     	0.0353		17
+18	neeposh        	0.0353		18
+19	charlo         	0.0353		19
+20	blacksmith     	0.0353		20
+21	iserhoff       	0.0353		21
+22	natalya        	0.0353		22
+23	assance        	0.0353		23
+24	hardie         	0.0353		24
+25	mianscum       	0.0353		25
+26	nathaniel      	0.0353		26
+27	nibiischii     	0.0353		27
+28	jukka          	0.0353		28
+29	pekka          	0.0353		29
+30	verta          	0.0353		30
+31	niskamoon      	0.0353		31
+32	concordian     	0.0353		32
+33	gohadoan       	0.0353		33
+34	mokpo          	0.0353		34
+35	kunsan         	0.0353		35
+36	gunsan         	0.0353		36
+37	djf            	0.0353		37
+38	hbj            	0.0353		38
+39	gt-seq         	0.0353		39
+40	mistassin      	0.0353		40
+41	albanel        	0.0353		41
+42	inter-lake     	0.0353		42
+43	per-unit-effort	0.0353		43
+44	bdr            	0.0353		44
+45	bordeleau      	0.0353		45
+46	rup            	0.0353		46
+47	papas          	0.0353		47
+48	cheno          	0.0353		48
+49	temiscamie     	0.0353		49
+50	fst            	0.0353		50
+
+Cluster 24 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_73']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	totasteaportal 	0.0239		1
+2	contendingwithcubancolonial	0.0239		2
+3	alchemyofthesoul	0.0239		3
+4	elixirforthespiritstemplemarucci-campbellathesisinthedepartmentofarthistorypresentedinpartialfulfillmentoftherequirementsforthedegreeofmasterofarts	0.0239		4
+5	universityschool	0.0239		5
+6	studiesthis    	0.0239		6
+7	hdqiiiabstracttotasteaportal	0.0239		7
+8	elixirforthespiritstemplemarucci	0.0239		8
+9	multisensoryexhibitionalchemyofthesoul	0.0239		9
+10	elixirforthespirits	0.0239		10
+11	asameansofresuscitatingandpreservingimmaterialhistoriesbelongingtoenslavedandindenturedplantationlabourers	0.0239		11
+12	theexhibitionfeaturesimmersiveblown-glassinstallations	0.0239		12
+13	experimentalsoundscapes	0.0239		13
+14	anopportunitytotastefreshlycutsugarcaneandthefaintyetpersistentsmellofrumwaftingthroughtheexhibitionspace	0.0239		14
+15	thisthesisarguesforthesignificanceofthemultisensoryelementscultivatingaspacetocontendwithcubangastropoetics	0.0239		15
+16	iarguethataccesspointstotheseimmaterialarchivesarepalpableandsimultaneouslyprotectedthroughthesemultisensoryelements	0.0239		16
+17	themultisensorydetailsofferapossibilitytoexperiencetheconstellationofhistoriesbelongingtoindenturedandenslavedworkersunifiedthroughcubansugarcaneproduction	0.0239		17
+18	elixirforthespiritsdoesnotscrutinizehistoriesconcerningplantationlabourers	0.0239		18
+19	campos-ponsrendersthesehistoriesopaquebyprivilegingandquestioningtheroleofthealimentarytractandencouragestherevitalizationofcogentimmaterialarchives	0.0239		19
+20	buildingfromtheoreticalfoundationslaidbyjennysharpe	0.0239		20
+21	taoleighgoffe  	0.0239		21
+22	fernandoortiz  	0.0239		22
+23	okwuienwezor   	0.0239		23
+24	andparamaroy   	0.0239		24
+25	thisthesisadvocatesfortheimportanceofcampos-pons	0.0239		25
+26	multisensoryexhibitionintheresuscitationandpreservationofcolonial-erahistoriesdegradedtoimmaterialstatus	0.0239		26
+27	ivacknowledgementsistruggledforthelastfewyearswiththefeasibilityofmyresearch	0.0239		27
+28	throughthesedoubts	0.0239		28
+29	alicemingwaijim	0.0239		29
+30	sconstantsupportremindedmethatmyworkmatters	0.0239		30
+31	thisthesiswouldnothavebeenclosetopossiblewithoutyourcountlessedits	0.0239		31
+32	wordsofaffirmation	0.0239		32
+33	andbeliefinme  	0.0239		33
+34	havingyouinmycornerforthelasttwoyearswastrulyunmatched	0.0239		34
+35	icannotthankyouenough	0.0239		35
+36	tomyexaminer   	0.0239		36
+37	maychew        	0.0239		37
+38	thankyouforthecareandtimeyoutookwithmythesis	0.0239		38
+39	yourrichandthoughtfulinsighthelpedthisprojecttakeshapeintosomethingiamincrediblyproudof	0.0239		39
+40	todr           	0.0239		40
+41	balbirk        	0.0239		41
+42	cynthiahammond 	0.0239		42
+43	anddr          	0.0239		43
+44	johnpotvin     	0.0239		44
+45	yourseminarstransformedhowithinkaboutarthistory	0.0239		45
+46	spotential     	0.0239		46
+47	thedisciplinefeltlimiting	0.0239		47
+48	butnowit       	0.0239		48
+49	sever-so-expansive	0.0239		49
+50	companionshiphasalwaysdrivenmetowanttodobetter	0.0239		50
+
+Cluster 25 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_129']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	dichlorophenoxyacetic	0.0826		1
+2	wheel          	0.0550		2
+3	servoing       	0.0413		3
+4	tzvi           	0.0413		4
+5	narayanswamy   	0.0413		5
+6	remover        	0.0413		6
+7	mwr            	0.0413		7
+8	dandelion      	0.0413		8
+9	conduced       	0.0413		9
+10	zakari         	0.0413		10
+11	cooney         	0.0413		11
+12	yoseph         	0.0413		12
+13	sefi           	0.0413		13
+14	kalmonson      	0.0413		14
+15	tav            	0.0413		15
+16	pbvs           	0.0413		16
+17	ibvs           	0.0413		17
+18	stilts         	0.0413		18
+19	adaptors       	0.0413		19
+20	cytron         	0.0413		20
+21	microcontroller	0.0413		21
+22	drilling       	0.0413		22
+23	stilt          	0.0413		23
+24	solidworks     	0.0413		24
+25	raspberr       	0.0413		25
+26	hsv            	0.0413		26
+27	byte           	0.0413		27
+28	acre           	0.0413		28
+29	dandelions     	0.0413		29
+30	mecoprop       	0.0413		30
+31	dicamba        	0.0413		31
+32	quinclorac     	0.0413		32
+33	biodegrade     	0.0413		33
+34	tertill        	0.0413		34
+35	acorn          	0.0413		35
+36	gokul          	0.0413		36
+37	ploughed       	0.0413		37
+38	unplowed       	0.0413		38
+39	effector       	0.0413		39
+40	disrepair      	0.0413		40
+41	quad           	0.0413		41
+42	offboard       	0.0413		42
+43	logitech       	0.0413		43
+44	raspbian       	0.0413		44
+45	udp            	0.0413		45
+46	stepper        	0.0413		46
+47	wormgear       	0.0413		47
+48	gearmotors     	0.0413		48
+49	shafts         	0.0413		49
+50	wmr            	0.0413		50
+
+Cluster 26 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_55']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	snotdeadandneitherareyou	0.0211		1
+2	apunkknitter   	0.0211		2
+3	sjourneyto     	0.0211		3
+4	uncoveringthesoftand	0.0211		4
+5	squishysuperpowersofknitting	0.0211		5
+6	jessicablanchet	0.0211		6
+7	thedepartment  	0.0211		7
+8	arteducation   	0.0211		8
+9	presentedinpartialfulfillmentoftherequirementsforthedegree	0.0211		9
+10	mastersofarts  	0.0211		10
+11	thisistocertifythatthethesisprepared	0.0211		11
+12	sjou           	0.0211		12
+13	rneyto         	0.0211		13
+14	uncoveringthesoftandsquishysuperpowersofknitting	0.0211		14
+15	research-creationproject	0.0211		15
+16	andsubmittedinpartialfulfillmentoftherequirementsforthedegr	0.0211		16
+17	eeof           	0.0211		17
+18	complieswiththeregulationsoftheuniversityandmeetstheaccept	0.0211		18
+19	edstandardswithrespect	0.0211		19
+20	tooriginalityandquality	0.0211		20
+21	signedbythefinalexaminingcommittee	0.0211		21
+22	vivekvenkatesh 	0.0211		22
+23	lorrieblair    	0.0211		23
+24	chairofdepartment	0.0211		24
+25	deanoffacultyiii	0.0211		25
+26	knitter        	0.0211		26
+27	squishy        	0.0211		27
+28	superpowers    	0.0211		28
+29	imovedtoparisandeverythinginmylifefellapart	0.0211		29
+30	littledid      	0.0211		30
+31	knittingwasgoing	0.0211		31
+32	tobecomemylifeline	0.0211		32
+33	thisisaresearch-creationthesisthatdescrib	0.0211		33
+34	esmyjourneythrougha	0.0211		34
+35	unconventionalhealingprocessthatledmetorealizeth	0.0211		35
+36	attherearesomany	0.0211		36
+37	benefitstobeingaknitter	0.0211		37
+38	onboththepersonalandeducational	0.0211		38
+39	aspectsoflife  	0.0211		39
+40	theresearchis  	0.0211		40
+41	supportedbyatheoreticalfoundationofpunkscholarship	0.0211		41
+42	iarg           	0.0211		42
+43	uethatpunkssharealotwith	0.0211		43
+44	knittersinmanyaspectsoftheirethos	0.0211		44
+45	mostprominently	0.0211		45
+46	theybo         	0.0211		46
+47	thconsiderdiyastheircore	0.0211		47
+48	ibelievethattheybothdisplaysubversivebe	0.0211		48
+49	haviorsbynotconformingto	0.0211		49
+50	theestablishedideasofcommercialbeauty	0.0211		50
+
+Cluster 27 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_58']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	presse         	0.0236		1
+2	botelho-urbanski	0.0137		2
+3	co-thesis      	0.0137		3
+4	self-described 	0.0137		4
+5	digital-first  	0.0137		5
+6	information-gathering	0.0137		6
+7	hyperlocal     	0.0137		7
+8	ad-revenue-driven	0.0137		8
+9	montreal-based 	0.0137		9
+10	long-form      	0.0137		10
+11	kristy         	0.0137		11
+12	lela           	0.0137		12
+13	brassard-lecours	0.0137		13
+14	pascoal        	0.0137		14
+15	peck           	0.0137		15
+16	pirrie         	0.0137		16
+17	podcast-creation	0.0137		17
+18	vintroduction  	0.0137		18
+19	thecanadianjournalismindustryisincrisis	0.0137		19
+20	orsowe         	0.0137		20
+21	vebeentoldoverandoveragainin	0.0137		21
+22	journalismschoolsandbynewsoutletsthemselves	0.0137		22
+23	vealwaysbeenskepticalofthisnarrative	0.0137		23
+24	whenacrisisisprolongedoverdecadesorcenturies	0.0137		24
+25	andrenewedwitheachnew	0.0137		25
+26	technologicaldevelopment	0.0137		26
+27	migratingfromprinttoradio	0.0137		27
+28	totelevision   	0.0137		28
+29	totheinternettosocial	0.0137		29
+30	mediaandnowartificialintelligence	0.0137		30
+31	doesitreallyconstituteacrisisanymore	0.0137		31
+32	oristhisa      	0.0137		32
+33	permanentstateofchaoswe	0.0137		33
+34	reoperatinginanddoweneedtolearntomakedo	0.0137		34
+35	ihopedtostudynewwaystheindustrycould	0.0137		35
+36	focusinglessonitsinherentbrokennessandmoreonpossiblesolutions	0.0137		36
+37	assomeone      	0.0137		37
+38	whohasmostlyworkedinlegacymedia	0.0137		38
+39	iwantedtoexplorewhatalternativebusinessmodels	0.0137		39
+40	andformatsexist	0.0137		40
+41	andseeifjournalismcouldbemoresustainableonseverallevels	0.0137		41
+42	human-focused  	0.0137		42
+43	sociallyconscious	0.0137		43
+44	economicallyviableandenvironmentallyaware	0.0137		44
+45	iwantedto      	0.0137		45
+46	learnwhowasimprovingonexistingmodelsandhowtheirideascouldbeemulatedthroughout	0.0137		46
+47	mythinkingwasthatifnewsoutletscouldprovideimprovedworkingconditionsfor	0.0137		47
+48	theywouldinevitablyproducebettercoverage	0.0137		48
+49	becauseifweweren	0.0137		49
+50	tworryingabout 	0.0137		50
+
+Cluster 28 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_108', 'doc_93', 'doc_94']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	gd             	0.0564		1
+2	year-olds      	0.0399		2
+3	israeli        	0.0396		3
+4	cheyenne       	0.0374		4
+5	cranston       	0.0374		5
+6	elsa           	0.0374		6
+7	chang-kredl    	0.0374		7
+8	marie-helene   	0.0374		8
+9	kohlberg       	0.0374		9
+10	gilligan       	0.0374		10
+11	activity-oriented	0.0374		11
+12	shulman        	0.0374		12
+13	rationalist    	0.0374		13
+14	haidt          	0.0374		14
+15	turiel         	0.0374		15
+16	kesebir        	0.0374		16
+17	function-based 	0.0374		17
+18	smetana        	0.0374		18
+19	nucci          	0.0374		19
+20	interlinked    	0.0374		20
+21	social-emotional	0.0374		21
+22	baron-cohen    	0.0374		22
+23	zalla          	0.0374		23
+24	leboyer        	0.0374		24
+25	buon           	0.0374		25
+26	wainryb        	0.0374		26
+27	killen         	0.0374		27
+28	disability-first	0.0374		28
+29	person-first   	0.0374		29
+30	piaget         	0.0374		30
+31	preconventional	0.0374		31
+32	non-nuanced    	0.0374		32
+33	postconventional	0.0374		33
+34	preconstructed 	0.0374		34
+35	chema          	0.0374		35
+36	non-male       	0.0374		36
+37	devalued       	0.0374		37
+38	care-based     	0.0374		38
+39	e-defined      	0.0374		39
+40	tidy           	0.0374		40
+41	sten           	0.0374		41
+42	suhler         	0.0374		42
+43	churchland     	0.0374		43
+44	innateness     	0.0374		44
+45	undervalues    	0.0374		45
+46	abhorrent      	0.0374		46
+47	illen          	0.0374		47
+48	senland        	0.0374		48
+49	intent-based   	0.0374		49
+50	margoni        	0.0374		50
+
+Cluster 29 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_13', 'doc_148', 'doc_28', 'doc_49', 'doc_96']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	highrez        	0.0489		1
+2	mart           	0.0489		2
+3	resnets        	0.0450		3
+4	resnet         	0.0369		4
+5	cls            	0.0368		5
+6	cnns           	0.0356		6
+7	khz            	0.0338		7
+8	cnn            	0.0317		8
+9	hete           	0.0301		9
+10	nullcline      	0.0301		10
+11	mni            	0.0288		11
+12	ethylhexyl     	0.0275		12
+13	srs            	0.0275		13
+14	mri-based      	0.0245		14
+15	kersten-oertel 	0.0245		15
+16	acceler        	0.0245		16
+17	rank-n-contrast	0.0245		17
+18	rnc            	0.0245		18
+19	grad-ram       	0.0245		19
+20	adas-cog       	0.0245		20
+21	updrsiii       	0.0245		21
+22	co-supervisors 	0.0245		22
+23	global-local   	0.0245		23
+24	gradient-weighted	0.0245		24
+25	data-efficient 	0.0245		25
+26	ram-based      	0.0245		26
+27	aging-related  	0.0245		27
+28	supcon         	0.0245		28
+29	terrier        	0.0245		29
+30	rnc-highrez    	0.0245		30
+31	group-averaged 	0.0245		31
+32	aal            	0.0245		32
+33	parcella       	0.0245		33
+34	indictates     	0.0245		34
+35	neurodegen     	0.0245		35
+36	sota           	0.0245		36
+37	rodegenerative 	0.0245		37
+38	alzeihmer      	0.0245		38
+39	task-specific  	0.0245		39
+40	cerebrum       	0.0245		40
+41	dles           	0.0245		41
+42	caudate        	0.0245		42
+43	putamen        	0.0245		43
+44	globus         	0.0245		44
+45	pallidus       	0.0245		45
+46	medially       	0.0245		46
+47	substantia     	0.0245		47
+48	nigra          	0.0245		48
+49	darkly         	0.0245		49
+50	pigmented      	0.0245		50
+
+Cluster 30 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_124', 'doc_125', 'doc_18', 'doc_67']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	originator     	0.0596		1
+2	fjs            	0.0533		2
+3	lms            	0.0491		3
+4	indexed        	0.0457		4
+5	dielectric     	0.0414		5
+6	jingyu         	0.0414		6
+7	youmin         	0.0414		7
+8	free-energy    	0.0414		8
+9	time-independent	0.0414		9
+10	electromechanical	0.0414		10
+11	viscoelast     	0.0414		11
+12	viscoelasticity	0.0414		12
+13	yawu           	0.0414		13
+14	jundong        	0.0414		14
+15	qun            	0.0414		15
+16	yaowei         	0.0414		16
+17	hesis          	0.0414		17
+18	dielec         	0.0414		18
+19	actua          	0.0414		19
+20	preparat       	0.0414		20
+21	ipmc           	0.0414		21
+22	voigt          	0.0414		22
+23	posse          	0.0414		23
+24	ielectric      	0.0414		24
+25	degs           	0.0414		25
+26	ectro          	0.0414		26
+27	vhb            	0.0414		27
+28	polyacrylate   	0.0414		28
+29	polydimethylsiloxane	0.0414		29
+30	elastomers     	0.0414		30
+31	lce            	0.0414		31
+32	biocompatibility	0.0414		32
+33	deform         	0.0414		33
+34	rding          	0.0414		34
+35	to-electrical  	0.0414		35
+36	silicones      	0.0414		36
+37	polyurethanes  	0.0414		37
+38	readi          	0.0414		38
+39	thickened      	0.0414		39
+40	intricated     	0.0414		40
+41	non-adhesive   	0.0414		41
+42	sandwiched     	0.0414		42
+43	incompressible 	0.0414		43
+44	lume           	0.0414		44
+45	bionic         	0.0414		45
+46	overcom        	0.0414		46
+47	flapping       	0.0414		47
+48	seabed         	0.0414		48
+49	flutter        	0.0414		49
+50	jellyfish      	0.0414		50
+
+Cluster 31 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_105', 'doc_145', 'doc_61']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	icme           	0.0318		1
+2	esguerra       	0.0240		2
+3	eudiste        	0.0240		3
+4	la-charette    	0.0240		4
+5	hal            	0.0237		5
+6	donation       	0.0221		6
+7	deindustrializing	0.0219		7
+8	devitt         	0.0219		8
+9	lachlan        	0.0219		9
+10	ndrew          	0.0219		10
+11	vaska          	0.0219		11
+12	deindustrialization	0.0219		12
+13	deindustrialized	0.0219		13
+14	mythologized   	0.0219		14
+15	indubitably    	0.0219		15
+16	breadwinner    	0.0219		16
+17	incisive       	0.0219		17
+18	tireless       	0.0219		18
+19	godsend        	0.0219		19
+20	laframboise    	0.0219		20
+21	gab            	0.0219		21
+22	caucus         	0.0219		22
+23	cohds          	0.0219		23
+24	whitt          	0.0219		24
+25	langdon        	0.0219		25
+26	devyn          	0.0219		26
+27	gwynne         	0.0219		27
+28	mcmorris       	0.0219		28
+29	gabby          	0.0219		29
+30	iaconetti      	0.0219		30
+31	bokesmati      	0.0219		31
+32	althea         	0.0219		32
+33	mccrea         	0.0219		33
+34	indranil       	0.0219		34
+35	chakrabort     	0.0219		35
+36	liebregt       	0.0219		36
+37	doucette       	0.0219		37
+38	tuma           	0.0219		38
+39	metropoles     	0.0219		39
+40	nightlife      	0.0219		40
+41	caper          	0.0219		41
+42	longtime       	0.0219		42
+43	allycentreofcapebreton	0.0219		43
+44	and-history    	0.0219		44
+45	acrony         	0.0219		45
+46	unwelcoming    	0.0219		46
+47	esc            	0.0219		47
+48	closeted       	0.0219		48
+49	fabled         	0.0219		49
+50	maritimers     	0.0219		50
+
+Cluster 32 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_26', 'doc_43']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	tug            	0.0495		1
+2	atik           	0.0495		2
+3	chanism        	0.0495		3
+4	erdal          	0.0495		4
+5	sabiha         	0.0495		5
+6	valentina      	0.0495		6
+7	ruck           	0.0495		7
+8	rholes         	0.0495		8
+9	rouner         	0.0495		9
+10	schembri       	0.0495		10
+11	escalas        	0.0495		11
+12	itse           	0.0495		12
+13	aguirre        	0.0495		13
+14	herskovitz     	0.0495		14
+15	traveler       	0.0495		15
+16	gerrig         	0.0495		16
+17	portation      	0.0495		17
+18	schumann       	0.0495		18
+19	guse           	0.0495		19
+20	nabi           	0.0495		20
+21	rucker         	0.0495		21
+22	tezer          	0.0495		22
+23	laer           	0.0495		23
+24	akow           	0.0495		24
+25	ratives        	0.0495		25
+26	lengel         	0.0495		26
+27	pictoral       	0.0495		27
+28	brame          	0.0495		28
+29	staveland      	0.0495		29
+30	vorderer       	0.0495		30
+31	suspic         	0.0495		31
+32	mrp            	0.0495		32
+33	eno            	0.0495		33
+34	coca           	0.0495		34
+35	cola           	0.0495		35
+36	salesclerk     	0.0495		36
+37	cashier        	0.0495		37
+38	effor          	0.0495		38
+39	rehearsing     	0.0495		39
+40	thoug          	0.0495		40
+41	ecifically     	0.0495		41
+42	ffortful       	0.0495		42
+43	hoch           	0.0495		43
+44	stablished     	0.0495		44
+45	adverts        	0.0495		45
+46	reating        	0.0495		46
+47	friestad       	0.0495		47
+48	merolla        	0.0495		48
+49	fatigued       	0.0495		49
+50	bosnjak        	0.0495		50
+
+Cluster 33 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_151', 'doc_35']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	bus            	0.0303		1
+2	bahrevar       	0.0290		2
+3	fetideh        	0.0290		3
+4	shahin         	0.0290		4
+5	hashtrudi      	0.0290		5
+6	zad            	0.0290		6
+7	multi-rate     	0.0290		7
+8	baniamerian    	0.0290		8
+9	simultanous    	0.0290		9
+10	single-agent   	0.0290		10
+11	single-rate    	0.0290		11
+12	dual-rate      	0.0290		12
+13	auxiliary-based	0.0290		13
+14	ptc            	0.0290		14
+15	zda            	0.0290		15
+16	sdenotes       	0.0290		16
+17	nsdenotes      	0.0290		17
+18	casf           	0.0290		18
+19	kff            	0.0290		19
+20	akff           	0.0290		20
+21	pftc           	0.0290		21
+22	aftc           	0.0290		22
+23	fpfalse        	0.0290		23
+24	fnfalse        	0.0290		24
+25	tptrue         	0.0290		25
+26	tntrue         	0.0290		26
+27	network-reliant	0.0290		27
+28	absorbs        	0.0290		28
+29	sniffer        	0.0290		29
+30	wireshark      	0.0290		30
+31	tcpdump        	0.0290		31
+32	spying         	0.0290		32
+33	non-encrypted  	0.0290		33
+34	sniffers       	0.0290		34
+35	side-channel   	0.0290		35
+36	maroochy       	0.0290		36
+37	shire          	0.0290		37
+38	queensland     	0.0290		38
+39	geneally       	0.0290		39
+40	plan-side      	0.0290		40
+41	stealthiness   	0.0290		41
+42	hijack         	0.0290		42
+43	perturbing     	0.0290		43
+44	tacker         	0.0290		44
+45	jeopar         	0.0290		45
+46	dize           	0.0290		46
+47	unpermitted    	0.0290		47
+48	non-existence  	0.0290		48
+49	fault-related  	0.0290		49
+50	leuenberger    	0.0290		50
+
+Cluster 34 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_47']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	thevisiodei    	0.0183		1
+2	visionanddevotioninthepsalterofbonneofluxembourg	0.0183		2
+3	emmabell       	0.0183		3
+4	inthedepartmentof	0.0183		4
+5	presentedinpartialful	0.0183		5
+6	llment         	0.0183		6
+7	oftherequirements	0.0183		7
+8	forthedegreeof 	0.0183		8
+9	masterofarts   	0.0183		9
+10	hdqiii         	0.0183		10
+11	thepsalter-hoursofbonneofluxembourgisasmallilluminate	0.0183		11
+12	dmanuscriptandpersonal	0.0183		12
+13	prayerbookthatwasmadeinparisinthemid-fourteenthcenturyfortheduchessofnormandy	0.0183		13
+14	privatedevotionalpractice	0.0183		14
+15	whilethetextsaremostlyinlatin	0.0183		15
+16	themanuscriptconcludeswitha	0.0183		16
+17	selectionofprayersthatmeditateonchrist	0.0183		17
+18	spassion       	0.0183		18
+19	writteninvernacular	0.0183		19
+20	thetwo         	0.0183		20
+21	dpagesfromthissection	0.0183		21
+22	formadistinctly	0.0183		22
+23	climacticmomentinthemanuscriptandhavedrawnmuchattentionfromscholarsofmedievalpiety	0.0183		23
+24	inthisthesis   	0.0183		24
+25	thepsalterofbonneofluxembourgservesasacasestudytoexaminehowpolitical	0.0183		25
+26	andtheologicaldevelopments	0.0183		26
+27	oftheearlyfourteenthcenturyin	0.0183		27
+28	uencedtheprivatedevotionalpractice	0.0183		28
+29	ofbonneofluxembourg	0.0183		29
+30	myanalysistakesintoaccountthehistoricalcontextoflaywomen	0.0183		30
+31	suseof         	0.0183		31
+32	devotionalliterature	0.0183		32
+33	smonasticupbringing	0.0183		33
+34	thevaloiscourtandtheoriesofvisionfromthe	0.0183		34
+35	patristicerathatwerehighlyin	0.0183		35
+36	uential        	0.0183		36
+37	duringthelatemiddleages	0.0183		37
+38	thisthesisargueshowthe	0.0183		38
+39	portraitofbonneandherhusband	0.0183		39
+40	johniioffrance 	0.0183		40
+41	alongwithits   	0.0183		41
+42	accompanyingprayersandmarginalia	0.0183		42
+43	provideevidencethatherprayerbookmayhavefacilitateda	0.0183		43
+44	visualdevotionalstrategythatpreparedherforthevisiodei	0.0183		44
+45	orthebeati     	0.0183		45
+46	cvisionofgod   	0.0183		46
+47	whichwasa      	0.0183		47
+48	subjectofparticularimportanc	0.0183		48
+49	einparisduringbonne	0.0183		49
+50	slifetime      	0.0183		50
+
+Cluster 35 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_95']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	hectare        	0.0624		1
+2	blond          	0.0312		2
+3	sapajus        	0.0312		3
+4	flavius        	0.0312		4
+5	creeggan       	0.0312		5
+6	montiglio      	0.0312		6
+7	gests          	0.0312		7
+8	italo          	0.0312		8
+9	natsumi        	0.0312		9
+10	fearnside      	0.0312		10
+11	peruzzo        	0.0312		11
+12	colab          	0.0312		12
+13	caapor         	0.0312		13
+14	destilaria     	0.0312		14
+15	tabu           	0.0312		15
+16	pies           	0.0312		16
+17	partn          	0.0312		17
+18	briar          	0.0312		18
+19	globalink      	0.0312		19
+20	primatology    	0.0312		20
+21	onceptualization	0.0312		21
+22	unding         	0.0312		22
+23	isualization   	0.0312		23
+24	libri          	0.0312		24
+25	principis      	0.0312		25
+26	marcgrave      	0.0312		26
+27	langguth       	0.0312		27
+28	caatinga       	0.0312		28
+29	hilly          	0.0312		29
+30	arboreal       	0.0312		30
+31	roque          	0.0312		31
+32	stratum        	0.0312		32
+33	notated        	0.0312		33
+34	tukey          	0.0312		34
+35	nternational   	0.0312		35
+36	dantas         	0.0312		36
+37	lins           	0.0312		37
+38	maximised      	0.0312		38
+39	colonisers     	0.0312		39
+40	masseti        	0.0312		40
+41	caitaia        	0.0312		41
+42	cebus          	0.0312		42
+43	libidinosus    	0.0312		43
+44	fronted        	0.0312		44
+45	albifrons      	0.0312		45
+46	taxonomically  	0.0312		46
+47	simia          	0.0312		47
+48	flavia         	0.0312		48
+49	schreber       	0.0312		49
+50	pontes         	0.0312		50
+
+Cluster 36 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_120', 'doc_33']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	pickup         	0.0619		1
+2	premises       	0.0552		2
+3	mile           	0.0507		3
+4	warning        	0.0412		4
+5	cy             	0.0398		5
+6	of-package     	0.0355		6
+7	baczynski      	0.0355		7
+8	mrugank        	0.0355		8
+9	thakor         	0.0355		9
+10	fop            	0.0355		10
+11	prepackaged    	0.0355		11
+12	healthin       	0.0355		12
+13	tastiness      	0.0355		13
+14	indulgence     	0.0355		14
+15	healthiness    	0.0355		15
+16	egies          	0.0355		16
+17	caroli         	0.0355		17
+18	pervisor       	0.0355		18
+19	vehemently     	0.0355		19
+20	towar          	0.0355		20
+21	talati         	0.0355		21
+22	syrup          	0.0355		22
+23	ares           	0.0355		23
+24	bandeira       	0.0355		24
+25	alcantara      	0.0355		25
+26	khandpur       	0.0355		26
+27	ganderats      	0.0355		27
+28	despit         	0.0355		28
+29	labe           	0.0355		29
+30	unhealthiness  	0.0355		30
+31	mazzonetto     	0.0355		31
+32	tasty          	0.0355		32
+33	raghunathan    	0.0355		33
+34	mework         	0.0355		34
+35	randerats      	0.0355		35
+36	kellogg        	0.0355		36
+37	euromonitor    	0.0355		37
+38	uspicion       	0.0355		38
+39	salted         	0.0355		39
+40	dium           	0.0355		40
+41	onyeaka        	0.0355		41
+42	scrinis        	0.0355		42
+43	sweeteners     	0.0355		43
+44	gressier       	0.0355		44
+45	reformu        	0.0355		45
+46	basto          	0.0355		46
+47	front-of-package	0.0355		47
+48	non-interpretive	0.0355		48
+49	nterpret       	0.0355		49
+50	siegrist       	0.0355		50
+
+Cluster 37 Detailed Analysis:
+----------------------------------------
+Documents: ['doc_140']
+
+Top 50 Most Informative Terms:
+Rank	Term		TF-IDF Score	TF-IDF Rank
+------------------------------------------------------------
+1	rekindling     	0.0213		1
+2	fundaro        	0.0213		2
+3	rekindle       	0.0213		3
+4	self-inquiry   	0.0213		4
+5	kabat-zinn     	0.0213		5
+6	mindfulness-based	0.0213		6
+7	langer         	0.0213		7
+8	studio-based   	0.0213		8
+9	researcher-participant	0.0213		9
+10	retentioniv    	0.0213		10
+11	confidants     	0.0213		11
+12	lightened      	0.0213		12
+13	self-care      	0.0213		13
+14	reshifting     	0.0213		14
+15	intoday        	0.0213		15
+16	seducationallandscape	0.0213		16
+17	burnouthasemergedasapervasiveissue	0.0213		17
+18	castinga       	0.0213		18
+19	shadowoverthewell-beingandeffectivenessofeducators	0.0213		19
+20	definedbyemotionalexhaustion	0.0213		20
+21	andreducedpersonalaccomplishment	0.0213		21
+22	burnoutisatthecoreofanindividual	0.0213		22
+23	professionalidentity	0.0213		23
+24	depletingenthusiasmandvitality	0.0213		24
+25	whileeducatorsacrossalldisciplines	0.0213		25
+26	grapplewiththisphenomenon	0.0213		26
+27	artteachersnavigateauniquesetofchallengesthatintensifythe	0.0213		27
+28	riskofburnout  	0.0213		28
+29	artteachersareagentsofcreativityandexpressionandfaceaprofession	0.0213		29
+30	characterizedbyemotionalintensityanddemandsthatextendbeyondtraditionalpedagogy	0.0213		30
+31	roleextendsbeyondinstruction	0.0213		31
+32	theyserveasmentors	0.0213		32
+33	andadvocatesforthe	0.0213		33
+34	transformativepowerofart	0.0213		34
+35	amidsttheirdedicationtonurturingtheartistictalentsoftheir	0.0213		35
+36	artteachersoftenfindthemselvesgrapplingwithaprofoundsenseofdisillusionment	0.0213		36
+37	anddetachmentfromtheircraft	0.0213		37
+38	theperpetualjugglingactofmeetingcurriculumdemands	0.0213		38
+39	managingdiversestudentneeds	0.0213		39
+40	andnavigatingadministrativepressurescanerodetheirpassion	0.0213		40
+41	forart         	0.0213		41
+42	leavingthemdirectionlessinaseaofemotionalexhaustionandcreativestagnation	0.0213		42
+43	recognizingtheurgencyofaddressingburnoutamongartteachersandreignitingtheir	0.0213		43
+44	passionforartisticexpression	0.0213		44
+45	thisthesisexplorespreventivestrategies	0.0213		45
+46	ratherthansuccumbing	0.0213		46
+47	totheprevailingnarrativeofburnoutasaninevitableconsequenceofteaching	0.0213		47
+48	thisresearch   	0.0213		48
+49	seekstochartanewcoursethatempowersartteacherstoreclaimtheirwell-beingandartistic	0.0213		49
+50	drawingupontheprinciplesofheuristics	0.0213		50
